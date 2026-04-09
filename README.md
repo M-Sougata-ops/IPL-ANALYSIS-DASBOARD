@@ -1,2 +1,3 @@
-# IPL-ANALYSIS-DASBOARD
-IPL Power BI Dashboard analyzing team performance, player statistics, and match outcomes. Includes interactive visuals for runs, wickets, win trends, and season-wise insights to support data-driven decision making.
+## 📂 Power BI File
+Download the full dashboard here:  
+👉 [Download PBIX](https://drive.google.com/file/d/1xpYdKOyJnXfV8Yk2s-q5FQDUIIJGHkCX/view?usp=sharing)
